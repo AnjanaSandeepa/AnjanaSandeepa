@@ -18,7 +18,7 @@
    </a>
 </p>
 
-<h3 align="left">  I'm undergraduate of university of Sri Jayawardenepura, following the BSC. Physical Science. Seeking an entry level position in the field of Software Engineering, my objective isto be a leaderand influencer,to make sure thet the project is fit to purpose and to share my experience and knowledge with team membersand to suggest any ideas contributing to the development of the project. </h3>
+<h5 align="left">  I'm undergraduate of university of Sri Jayawardenepura, following the BSC. Physical Science. Seeking an entry level position in the field of Software Engineering, my objective isto be a leaderand influencer,to make sure thet the project is fit to purpose and to share my experience and knowledge with team membersand to suggest any ideas contributing to the development of the project. </h5>
 
 ---
 
