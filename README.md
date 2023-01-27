@@ -1,36 +1,28 @@
 
 <h1 align="left"> Hey there, I'm Anjana 👋 </h1>
 
+<br/>
+
 <p align="left">
-
-<!--   <a href="https://dewith.co/">
-      <img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/">
-   </a>  -->
-
    <a href="https://www.linkedin.com/in/anjana-sandeepa-aluthge/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-AnjanaSandeepa-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjana-sandeepa-aluthge/">
    </a>
-
    <a href="https://twitter.com/SandeepaAluthge">
       <img alt="Twitter" src="https://img.shields.io/badge/-@SandeepaAluthge-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SandeepaAluthge">
    </a>
-
    <a href="mailto:sandeepa.aluthge@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/-sandeepa.aluthge@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandeepa.aluthge@gmail.com">
    </a>
-
-<!--   <a href="https://medium.com/@dewith">
-      <img alt="Medium" src="https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@dewith">
+   <a href="https://www.facebook.com/anjanasandeepa.aluthge/">
+      <img alt="Facebook" src="https://img.shields.io/badge/-Anjana sandeepa Aluthge-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anjanasandeepa.aluthge/">
    </a>
-
-   -->
 </p>
-
-
 
 <h3 align="left">  Software Engineer in the field of computer software industry. Skilled in WordPress, C, C#, Java, Mysql and Python. </h3>
 
 ---
+
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -54,20 +46,19 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
 <a href="https://dewith.co/">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AnjanaSandeepa&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSandeepa&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
+   <img height="150px" width ="450px" src="https://github-readme-stats.vercel.app/api?username=AnjanaSandeepa&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
+   <img height="150px" width ="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSandeepa&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
 </a>
-</p>
 
 ---
+
+<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/AnjanaSandeepa/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AnjanaSandeepa">
 </a>
-
 <a href="https://github.com/AnjanaSandeepa?tab=followers">
     <img src="https://img.shields.io/github/followers/AnjanaSandeepa?label=Followers&style=social" alt="GitHub Badge">
 </a>
