@@ -18,7 +18,7 @@
    </a>
 </p>
 
-<h3 align="left">  Software Engineer in the field of computer software industry. Skilled in WordPress, C, C#, Java, Mysql and Python. </h3>
+<h3 align="left">  I'm undergraduate of university of Sri Jayawardenepura, following the BSC. Physical Science. Seeking an entry level position in the field of Software Engineering, my objective isto be a leaderand influencer,to make sure thet the project is fit to purpose and to share my experience and knowledge with team membersand to suggest any ideas contributing to the development of the project. </h3>
 
 ---
 
@@ -43,7 +43,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"alt="express" width="40" height="40"/> </a>
 </p>
 
 <a href="https://dewith.co/">
