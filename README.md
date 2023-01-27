@@ -1,5 +1,5 @@
 
-<h1 align="left"> Hey there, I'm Anjana 👋 </h1>
+<h1 align="left"> Hey there, I'm Anjana Sandeepa Aluthge 👋 </h1>
 
 <br/>
 
@@ -47,8 +47,8 @@
 </p>
 
 <a href="https://dewith.co/">
-   <img height="150px" width ="450px" src="https://github-readme-stats.vercel.app/api?username=AnjanaSandeepa&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
-   <img height="150px" width ="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSandeepa&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
+   <img height="150px" width ="400px" src="https://github-readme-stats.vercel.app/api?username=AnjanaSandeepa&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
+   <img height="150px" width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSandeepa&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
 </a>
 
 ---
