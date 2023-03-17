@@ -50,8 +50,6 @@
    <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" alt="Arduino" width="45" height="auto" style="max-width: 100%;"/> </a>
    <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/17888735?s=200&v=4" alt="TestProject" width="45" height="auto" style="max-width: 100%;"/> </a>
    
-    
-      
 </p>
 
 <a href="https://dewith.co/">
