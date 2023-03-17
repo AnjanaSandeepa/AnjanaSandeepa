@@ -44,7 +44,7 @@
    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
    <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" alt="Selenium" width="38" height="38" "/> </a>
    <a href="#" target="_blank"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1536%2C864&ssl=1" alt="TestNG" width="75" height="auto" /> </a>
-   <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" alt="Arduino" width="45" height="auto" "/> </a>
+   <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" alt="Arduino" width="55" height="auto" "/> </a>
 </p>
 
 <a href="https://dewith.co/">
