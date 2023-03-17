@@ -41,7 +41,11 @@
    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/117121/pycharm.png"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
+   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+   <a href="https://postman.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" alt="Selenium" width="35" height="35"/>
+   
+      
+      </a>
 </p>
 
 <a href="https://dewith.co/">
